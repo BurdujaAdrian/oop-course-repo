@@ -32,7 +32,7 @@
 
 ```
 isHumanoid: false
-planet: Kashyyk
+planet: Kashyyyk
 age: 0-400
 traits: HAIRY, TALL
 ```
